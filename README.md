@@ -22,7 +22,7 @@ This bot is designed to run on:
 ## 🔐 Environment Variables
 Set the following variable before running:
 
-BOT_TOKEN=7110445818:AAHsDEWfNfkzDeY20QrEbbbm1K98oM2H1Qo
+BOT_TOKEN=YOUR_TOKEN
 
 ## 🧠 Tech Stack
 - Python
