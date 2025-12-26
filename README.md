@@ -1,11 +1,34 @@
 # CreatorForge Premium Telegram Bot 🤖
 
-This is a premium Telegram bot built with python-telegram-bot.
+A powerful premium Telegram bot built with Python.
 
-## Features
+## ✨ Features
 - Free & Premium commands
-- Ready for Railway / VPS
+- Ready for Railway / VPS deploy
 - Secure environment variables
+- Scalable & production ready
 
-## Run
-Set BOT_TOKEN in environment variables.
+## 🚀 Commands
+- /start – Start the bot
+- /help – Show help
+- /premium – Premium feature check
+
+## ⚙️ Deployment
+This bot is designed to run on:
+- Railway
+- VPS (Ubuntu)
+- Cloud servers
+
+## 🔐 Environment Variables
+Set the following variable before running:
+
+BOT_TOKEN=your_Telegram_bot_token
+
+## 🧠 Tech Stack
+- Python
+- python-telegram-bot v20
+- HTTPX
+
+---
+
+Built with ❤️ by CreatorForge
