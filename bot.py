@@ -5,7 +5,7 @@ import requests, random, datetime, threading, time
 
 # ================= CONFIG =================
 TOKEN = "7110445818:AAHsDEWfNfkzDeY20QrEbbbm1K98oM2H1Qo"
-OPENAI_KEY = "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"
+OPENAI_KEY = ("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")
 DAILY_LIMIT = 5
 
 client = OpenAI(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)
